@@ -1,1 +1,1 @@
-# rock-paper-scissors
+#project for creating a rock paper scissors game
